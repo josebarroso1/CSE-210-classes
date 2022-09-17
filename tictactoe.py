@@ -8,9 +8,9 @@ import random
 from turtle import position
 
 
-board= ["-","-","-",
-        "-","-","-",
-        "-","-","-"]
+board= ["_","_","_",
+        "_","_","_",
+        "_","_","_"]
 
 def main():
     currentPlayer = "X"
