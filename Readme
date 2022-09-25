@@ -1,0 +1,22 @@
+CSE 210 - Programming with Classes
+
+Name: Hilo Specification
+
+Description: Hilo game is a game where we have to guess if the card number will be higher or lower. Whenever we get it right we earn 100 points and when we get it wrong we lose 75 points, reaching 0 points we lose the game.
+
+Rules:  The player starts the game with 300 points.
+        Individual cards are represented as a number from 1 to 13.
+        The current card is displayed.
+        The player guesses if the next one will be higher or lower.
+        The the next card is displayed.
+        The player earns 100 points if they guessed correctly.
+        The player loses 75 points if they guessed incorrectly.
+        If a player reaches 0 points the game is over.
+        If a player has more than 0 points they decide if they want to keep playing.
+        If a player decides not to play again the game is over.
+
+project structure: First by create a class director , second I create the class for the card that will display random for 1 to 13, I create a get input to ask if the next card is higher or lower, than I create the class for the next card that will display to the random numer, I have to create a class to the points and the if statements to get 100 points if you gues correct if it was higher or lower or lose 75 points if you gues wrong, and last a class with an input to ask if they want to keep playing if they have more than 0 points.
+
+
+José Barroso
+Zebarroso1999@gmail.com
